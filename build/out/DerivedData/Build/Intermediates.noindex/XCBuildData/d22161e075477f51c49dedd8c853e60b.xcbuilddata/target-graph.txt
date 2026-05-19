@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'swift_closure_advanced_demo' in project 'swift_closure_advanced_demo' (no dependencies)
